@@ -1,1 +1,2 @@
-# ObjectRecognition2
+# 物体認識論
+レポート課題2のコードです
